@@ -43,6 +43,6 @@ Feel free to reach out to me through any of these channels:
 
 ## New GitHub Profile
 
-**Important**: I have an old GitHub account that holds sentimental value from my childhood exploration of technology. If you're curious about my early journey, check it out: [old_username](https://github.com/old_username). However, for my latest projects and activities, please find me on my primary GitHub account: [spignelon](https://github.com/spignelon).
+**Important**: I have an old GitHub account that holds sentimental value from my childhood exploration of technology. If you're curious about my early journey, check it out: [darkwarrior3]([https://github.com/old_username](https://github.com/darkwarrior3)). However, for my latest projects and activities, please find me on my primary GitHub account: [spignelon](https://github.com/spignelon).
 
 Thank you for visiting, and I hope to collaborate and learn with you in the amazing world of technology!
