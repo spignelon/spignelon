@@ -8,16 +8,7 @@ I'm Ujjawal Saini, a tech enthusiast with a passion for Machine Learning, Artifi
 
 ## Skills
 
-- Python
-- Java
-- Linux
-- Bash and shell scripting
-- Go lang
-- C lang
-- R lang
-- Cybersecurity
-- Machine Learning
-- PyTorch, pandas, numpy, scikit-learn ....
+Python, Golang, Bash and shell scripting, Cybersecurity, Sysadmin (Linux), Machine Learning, Deep-Learning, R language, C and Java
 
 ## Projects
 
@@ -31,14 +22,11 @@ You can explore some of my projects on GitHub:
 
 Feel free to reach out to me through any of these channels:
 
-- 🌐 My Website: [https://ujjawalsaini.me/](https://ujjawalsaini.me/)
-- 📧 Email: contact@ujjawalsaini.me
-- 💬 Matrix: @spignelon:matrix.org
-- 📞 Telegram: @spignelon
-- 📄 My LinkedIn: [https://www.linkedin.com/in/spignelon](https://www.linkedin.com/in/spignelon)
-- 🐦 My Twitter: [https://twitter.com/spignelon](https://twitter.com/spignelon)
-- 🌐 My Blog: [https://blog.ujjawalsaini.me/](https://blog.ujjawalsaini.me/)
-- 🐘 Mastodon: [https://fosstodon.org/@spignelon](https://fosstodon.org/@spignelon)
+- Matrix: @spignelon:matrix.org
+- Telegram: @spignelon
+- LinkedIn: [https://www.linkedin.com/in/spignelon](https://www.linkedin.com/in/spignelon)
+- My Blog: [https://blog.ujjawalsaini.me/](https://blog.ujjawalsaini.me/)
+- Mastodon: [https://fosstodon.org/@spignelon](https://fosstodon.org/@spignelon)
 
 
 I have an old GitHub account that holds sentimental value from my childhood exploration of technology. If you're curious about my early journey, check it out: [darkwarrior3](https://github.com/darkwarrior3). However, for my latest projects and activities, please find me on my primary GitHub account: [spignelon](https://github.com/spignelon).
