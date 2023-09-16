@@ -17,6 +17,7 @@ You can explore some of my projects on GitHub:
 - [Letter Recognition Project](https://github.com/spignelon/Letter-Recognition_Project-ML)
 - [HealthNet](https://github.com/spignelon/HealthNet)
 - [CleverTerm](https://github.com/spignelon/CleverTerm)
+- [etc.](https://github.com/spignelon?tab=repositories)
 
 ## Get in Touch
 
