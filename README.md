@@ -30,6 +30,7 @@ A versatile developer and hacker proficient in `Full Stack Web Development`, `Ma
 [<img src="https://img.shields.io/badge/LeetCode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=#d16c06" />](https://leetcode.com/u/spignelon/)
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=black" />](https://www.kaggle.com/spignelon)
 [<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=000" />](https://huggingface.co/spignelon)
+[<img src="https://img.shields.io/badge/Matrix-000.svg?&style=for-the-badge&logo=matrix&logoColor=fff" />](https://matrix.to/#/@spignelon:matrix.org)
 
 </p>
 
