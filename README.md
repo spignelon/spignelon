@@ -9,7 +9,7 @@ A versatile developer and hacker proficient in `Full Stack Web Development`, `Ma
   - **HackDUCS** at Delhi University
   - **TazerHunt CTF** at DTU
 - 👨🏽‍💻 Final Year B.Tech AIML (Artificial Intelligence & Machine Learning) Student at GGSIPU
-- 👨🏽‍💻 Global [Quine](https://quira.sh/user/spignelon) DevRank: **Top 15%**
+- 👨🏽‍💻 Global [Quine](https://quira.sh/user/spignelon) DevRank: **Top 10%**
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/spignelon)
 - 📫 How to reach me: spignelon@protonmail.com or Telegram: [@spignelon](https://t.me/spignelon)
 - 📜 My Blog: https://ujjawalsaini.hashnode.dev/
