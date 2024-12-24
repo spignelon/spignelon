@@ -29,7 +29,7 @@ A versatile developer and hacker proficient in `Full Stack Web Development`, `Ma
 [<img src="https://img.shields.io/badge/Mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://fosstodon.org/@spignelon)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/spignelon)
 [![Visits Badge](https://komarev.com/ghpvc/?username=spignelon&style=for-the-badge)](https://github.com/spignelon)
-[<img src="https://img.shields.io/badge/quine-Global%20DevRank%20Top%2015%25-%239fff45.svg?&style=for-the-badge&logo=quine.sh&logoColor=white" />](https://quine.sh/user/spignelon)
+[<img src="https://img.shields.io/badge/quine-Global%20DevRank%20Top%2010%25-%239fff45.svg?&style=for-the-badge&logo=quine.sh&logoColor=white" />](https://quine.sh/user/spignelon)
 [<img src="https://img.shields.io/badge/LeetCode-000000.svg?&style=for-the-badge&logo=leetcode&logoColor=#d16c06" />](https://leetcode.com/u/spignelon/)
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=black" />](https://www.kaggle.com/spignelon)
 [<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=000" />](https://huggingface.co/spignelon)
