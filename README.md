@@ -2,12 +2,13 @@
 
 A versatile developer and hacker proficient in `Full Stack Web Development`, `Machine Learning`, & `Deep Learning` and `Cyber Security`.
 
-- 🏆 Won 6x Hackathon and 1 CTF:
+- 🏆 Won 7x Hackathon and 1 CTF:
   - **Amazon Sambhav Hackathon** - National
   - **Red Hat and Intel AI Hackathon** - International
   - **Intel GenAI Hackathon** at IIT Delhi
   - **HackEDCode 2.0** at GGSIPU
   - **CodeUtsava 8.0** at NIT Raipur
+  - **HansInnoverse Hackathon** -Hansraj DU
   - **HackDUCS** at Delhi University
   - **TazerHunt CTF** at DTU
 - 👨🏽‍💻 Final Year B.Tech AIML (Artificial Intelligence & Machine Learning) Student at GGSIPU
